@@ -9,7 +9,10 @@ def method2
 	puts("Color value in method2: ", color)
 end
 
-method1
-method2
 
 puts("Color value in outside method: " + color)
+
+Thang dep chai quá
+
+
+
