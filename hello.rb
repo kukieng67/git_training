@@ -12,7 +12,11 @@ end
 
 puts("Color value in outside method: " + color)
 
+<<<<<<< HEAD
 Thang dep chai quá
 
 
+
+
+lOng long long
 
